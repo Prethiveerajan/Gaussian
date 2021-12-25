@@ -20,8 +20,8 @@ Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: 
 RegisterNumber: 
 /*
-``````
-import numpy as np
+```
+    import numpy as np
 import sys
 n = int(input())
 a = np.zeros((n,n+1))
@@ -45,7 +45,7 @@ for i in range(n-2,-1,-1):
 for i in range(n):
     print('X%d = %0.2f' %(i,X[i]), end = ' ')
 
-```
+``
 
 ## Output:
 ![gaussian elimination](paste.png)
