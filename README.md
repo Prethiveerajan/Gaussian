@@ -21,6 +21,8 @@ Developed by:
 RegisterNumber: 
 */
 ```
+
+
 import numpy as np
 import sys
 n = int(input())
