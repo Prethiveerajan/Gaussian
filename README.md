@@ -19,10 +19,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: 
 RegisterNumber: 
-*/
 ```
-
-
 import numpy as np
 import sys
 n = int(input())
