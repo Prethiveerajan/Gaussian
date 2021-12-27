@@ -10,7 +10,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 1. import numpy
 2. import sys
-3.  use nested loop for partial pivoting
+3. use nested loop for partial pivoting
 4. print the the solved matix
 
 ## Program:
